@@ -1,0 +1,10 @@
+Algoritma sederhana cara menghitung rata rata
+1. mulai masukan inputan
+2. masukkan nama siswa yang akan dicari nilai akhirnya
+3. masukkan nilai keaktifan siswa
+4. masukkan nilai tugas siswa
+5. masukkan nilai tugas ujian siswa
+6. program mengeksekusi nilai akhir siswa yang diambil dari nilai keaktifan di kali 20%, nilai tugas di kali 50%, nilai ujian dikali 30%
+7. program menampilkan keluaran :
+“Jadi Siswa yang bernama …… memperoleh nilai akhir sebesar …...”
+8. selesai
